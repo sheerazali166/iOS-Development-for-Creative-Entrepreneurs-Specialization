@@ -1,0 +1,16 @@
+PODS:
+  - DistanceGetter (0.2)
+
+DEPENDENCIES:
+  - DistanceGetter (~> 0.1)
+
+SPEC REPOS:
+  trunk:
+    - DistanceGetter
+
+SPEC CHECKSUMS:
+  DistanceGetter: 868fa28725dd4e7bfaa0ed650abba4f825395f3f
+
+PODFILE CHECKSUM: 792bd46ebae0eabbe2d61cf1f665d187dc0e9f7a
+
+COCOAPODS: 1.15.2
